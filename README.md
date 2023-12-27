@@ -13,7 +13,7 @@ no stage 03 do explorer aprendi a utilizar animação e foi criado uma galeria d
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./assets/capa.png">
 </p>
 
 <br>
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 nesse projeto fiz uma atividade uma pagina de moveis planejados
 
-- [Visite o projeto online] (https://6520142fc60d37009807cf94--teal-sprinkles-4f12f9.netlify.app/)
+- [Visite o projeto online] (https://khnum782.github.io/Galeria/)
 
 ## 🔖 Layout
 
